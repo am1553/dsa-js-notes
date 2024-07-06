@@ -1,1 +1,1 @@
-# dsa-js-notes
+# Data Structures and Algorithms Notes in JavaScript
